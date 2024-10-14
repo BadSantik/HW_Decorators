@@ -1,0 +1,5 @@
+Date and Time: 2024-10-15 00:38:57.365821
+Function Name: calculate_salaries
+Arguments: args=([{'name': 'Alice', 'position': 'Developer', 'salary': 5000}, {'name': 'Bob', 'position': 'Designer', 'salary': 4500}, {'name': 'Charlie', 'position': 'Manager', 'salary': 6000}],), kwargs={}
+Return Value: None
+-------------------------

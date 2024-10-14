@@ -1,0 +1,20 @@
+Date and Time: 2024-10-15 00:33:58.991386
+Function Name: hello_world
+Arguments: args=(), kwargs={}
+Return Value: Hello World
+-------------------------
+Date and Time: 2024-10-15 00:33:58.991386
+Function Name: summator
+Arguments: args=(2, 2), kwargs={}
+Return Value: 4
+-------------------------
+Date and Time: 2024-10-15 00:33:58.991386
+Function Name: div
+Arguments: args=(6, 2), kwargs={}
+Return Value: 3.0
+-------------------------
+Date and Time: 2024-10-15 00:33:58.991386
+Function Name: summator
+Arguments: args=(4.3,), kwargs={'b': 2.2}
+Return Value: 6.5
+-------------------------
